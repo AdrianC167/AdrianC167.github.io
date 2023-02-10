@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&display=swap');
 
 body {
 
@@ -20,7 +21,8 @@ nav > a {
     color: #010101;
     text-decoration: #010101;
     padding: 6px 9px;
-    font-family: ;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: larger;
 
 }
 
@@ -45,3 +47,4 @@ background-color: #16161a;
 color: white;
 
 }
+
