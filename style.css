@@ -20,13 +20,28 @@ nav > a {
     color: #010101;
     text-decoration: #010101;
     padding: 6px 9px;
-
+    font-family: ;
 
 }
 
 
 nav > a:hover {
 
-    background-color: #2cb67d;
+    background-color: #DF32D6;
+    color: #aabbdd;
+    text-decoration: underline;
+}
+
+nav > a:when {
+
+    background-color: white;
+
+}
+
+
+body {
+
+background-color: #16161a;
+color: white;
 
 }
