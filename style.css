@@ -17,10 +17,9 @@ h1 {
 
 nav > a {
 
-    background-color: #7f5af0;
     color: #010101;
     text-decoration: #010101;
-    padding: 6px 9px;
+    padding: 6px 10px;
     font-family: 'Chakra Petch', sans-serif;
     font-size: larger;
 
@@ -40,6 +39,12 @@ nav > a:when {
 
 }
 
+nav {
+
+    background-color: #7f5af0;
+    padding: 8px 10px;
+
+}
 
 body {
 
