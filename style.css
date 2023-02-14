@@ -48,9 +48,28 @@ nav {
 
 body {
 
-background-color: #16161a;
-color: white;
-
+    background-color: #16161a;
+    color: white;
 }
 
+.main_text  {
 
+    font-size: 16.35px;
+    padding:6px;
+    
+     }
+    
+#lists {
+    
+    color:blueviolet;
+    padding: 10px 24px 10px 24px;
+        
+    
+    }
+
+.center {
+
+text-align: center;
+
+}
+    
