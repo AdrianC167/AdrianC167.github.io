@@ -33,14 +33,11 @@ nav > a:hover {
     text-decoration: underline;
 }
 
-nav > a:when {
-
-    background-color: white;
-
-}
 
 nav {
 
+    position: sticky;
+    top:0px;
     background-color: #7f5af0;
     padding: 8px 10px;
 
