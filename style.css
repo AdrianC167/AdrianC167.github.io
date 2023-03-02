@@ -116,30 +116,28 @@ background-color: #b24bf3;
 
 #github {
 
+text-decoration: none;
+padding: 5px 9px 5px 6px;
 font-size:50px;
 color:grey;
 
 }
 
-#email {
-
-font-size:50px;
-color:cornflowerblue;
-text-decoration: none;
-
-}
 
 #linkedin {
 
+padding: 5px 9px 5px 9px;
 color: lightblue;
 font-size:50px;
+text-decoration: none;
 
 }
 
 #gmail {
 
-height: 65px;
-width: 65px;
+text-decoration: none;
+height: 40px;
+width: 42px;
 color:silver;
 
 
@@ -147,14 +145,28 @@ color:silver;
 
 #phone {
 
+width:40px;
+height:40px;
 text-decoration: none;
-color:silver;
-font-size:55px;
+
 
 
 }
 
+#mad {
 
+height: 80%;
+width: 85%;
+
+
+}
+
+a  {
+
+color: aquamarine;
+
+
+}
 
 @media screen and (max-width: 480px) {
 
